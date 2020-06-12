@@ -19,7 +19,7 @@ replacement for nearly all users.
 - Better handling of text color that spans multiple lines.
 - API compatible with the original cli-table.
 - Exhaustive test suite including the entire original cli-table test suite.
-- Lots of examples auto-generated from the tests ([basic](https://github.com/jamestalmage/cli-table2/blob/master/basic-usage.md), [advanced](https://github.com/jamestalmage/cli-table2/blob/master/advanced-usage.md)).
+- Lots of examples auto-generated from the tests ([basic](https://github.com/Mesdocteurs/cli-table2/blob/master/basic-usage.md), [advanced](https://github.com/Mesdocteurs/cli-table2/blob/master/advanced-usage.md)).
 
 ## Features
 
@@ -41,8 +41,8 @@ npm install cli-table2
 ## How to use
 
 A portion of the unit test suite is used to generate examples:
-- [basic-usage](https://github.com/jamestalmage/cli-table2/blob/master/basic-usage.md) - covers basic uses.
-- [advanced](https://github.com/jamestalmage/cli-table2/blob/master/advanced-usage.md) - covers using the new column and row span features.
+- [basic-usage](https://github.com/Mesdocteurs/cli-table2/blob/master/basic-usage.md) - covers basic uses.
+- [advanced](https://github.com/Mesdocteurs/cli-table2/blob/master/advanced-usage.md) - covers using the new column and row span features.
 
 This package is api compatible with the original [cli-table](https://github.com/Automattic/cli-table).
 So all the original documentation still applies (copied below).

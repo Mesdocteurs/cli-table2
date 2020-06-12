@@ -1,5 +1,5 @@
 {
-  "name": "cli-table2",
+  "name": "@mesdocteurs/cli-table",
   "version": "0.2.0",
   "description": "Pretty unicode tables for the command line. Based on the original cli-table.",
   "main": "index.js",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamestalmage/cli-table2.git"
+    "url": "https://github.com/Mesdocteurs/cli-table2.git"
   },
   "keywords": [
     "node",
@@ -55,7 +55,7 @@
   "author": "James Talmage",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jamestalmage/cli-table2/issues"
+    "url": "https://github.com/Mesdocteurs/cli-table2.git/issues"
   },
-  "homepage": "https://github.com/jamestalmage/cli-table2"
+  "homepage": "https://github.com/Mesdocteurs/cli-table2.git/cli-table2"
 }
